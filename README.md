@@ -20,18 +20,16 @@ I turn knowledge-heavy workflows into open-source products: systems that explain
 
 ## Tech stack
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="42" height="42" /><br><sub><strong>Python</strong></sub></td>
-    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="42" height="42" /><br><sub><strong>TypeScript</strong></sub></td>
-    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="42" height="42" /><br><sub><strong>Rust</strong></sub></td>
-    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="42" height="42" /><br><sub><strong>Next.js</strong></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="42" height="42" /><br><sub><strong>Node.js</strong></sub></td>
-    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="42" height="42" /><br><sub><strong>FastAPI</strong></sub></td>
-    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="42" height="42" /><br><sub><strong>PostgreSQL</strong></sub></td>
-    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="42" height="42" /><br><sub><strong>Docker</strong></sub></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="42" height="42" /><br><sub><strong>Python</strong></sub></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="42" height="42" /><br><sub><strong>TypeScript</strong></sub></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="42" height="42" /><br><sub><strong>Rust</strong></sub></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="42" height="42" /><br><sub><strong>Next.js</strong></sub></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="42" height="42" /><br><sub><strong>Node.js</strong></sub></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="42" height="42" /><br><sub><strong>FastAPI</strong></sub></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="42" height="42" /><br><sub><strong>PostgreSQL</strong></sub></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="42" height="42" /><br><sub><strong>Docker</strong></sub></td>
   </tr>
 </table>
 
