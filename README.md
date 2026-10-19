@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Haitao Xia</h1>
   <p><strong>AI-native systems for code intelligence, agentic research, and legal technology.</strong></p>
-  <p><sub>PG student at XJTLU · Suzhou, China</sub></p>
+  <p><sub>Independent AI Developer · Product Manager · Suzhou, China</sub></p>
   <p>
     <a href="#selected-work">Selected work</a> ·
     <a href="#current-focus">Current focus</a> ·
@@ -64,4 +64,4 @@ I turn knowledge-heavy workflows into open-source products: systems that explain
 
 ## 中文
 
-我是夏海涛，西交利物浦大学研究生。关注 AI Agent、代码智能、法律科技与复杂知识工作流，持续把研究型原型打磨成可理解、可检查、可使用的开源产品。
+我是夏海涛，一名 AI 独立开发者与产品经理。关注 AI Agent、代码智能、法律科技与复杂知识工作流，持续把研究型原型打磨成可理解、可检查、可使用的开源产品。
