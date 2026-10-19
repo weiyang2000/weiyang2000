@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Haitao Xia</h1>
   <p><strong>AI-native systems for code intelligence, agentic research, and legal technology.</strong></p>
-  <p><sub>AI Indie Developer · Product Manager · Suzhou, China</sub></p>
+  <p><sub>AI Indie Developer · Product Manager · Shanghai, China</sub></p>
   <p>
     <a href="#selected-work">Selected work</a> ·
     <a href="#current-focus">Current focus</a> ·
